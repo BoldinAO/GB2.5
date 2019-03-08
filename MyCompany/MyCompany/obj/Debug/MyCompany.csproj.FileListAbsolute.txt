@@ -1,0 +1,15 @@
+D:\gb5\MyCompany\MyCompany\bin\Debug\MyCompany.exe.config
+D:\gb5\MyCompany\MyCompany\bin\Debug\MyCompany.exe
+D:\gb5\MyCompany\MyCompany\bin\Debug\MyCompany.pdb
+D:\gb5\MyCompany\MyCompany\obj\Debug\MainWindow.g.cs
+D:\gb5\MyCompany\MyCompany\obj\Debug\App.g.cs
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany_MarkupCompile.cache
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany_MarkupCompile.lref
+D:\gb5\MyCompany\MyCompany\obj\Debug\MainWindow.baml
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.g.resources
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.Properties.Resources.resources
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.csproj.GenerateResource.cache
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.csproj.CoreCompileInputs.cache
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.exe
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.pdb
+D:\gb5\MyCompany\MyCompany\obj\Debug\MyCompany.csprojAssemblyReference.cache
